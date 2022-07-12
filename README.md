@@ -20,6 +20,6 @@
 
 [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=nichh-io&show_icons=true&theme=gruvbox)](https://github.com/nichh-io/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nichh-io&&rank=S,A&theme=gruvbox)](https://github.com/nichh-io/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nichh-io&&rank=-C,-B,-UNKOWN&theme=gruvbox)](https://github.com/nichh-io/github-profile-trophy)
 
 </p>
