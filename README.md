@@ -17,4 +17,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nichh-io&" alt="nichh-io" /></p>
 
+<p align="center">
+
 [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=nichh-io&show_icons=true&theme=gruvbox)](https://github.com/nichh-io/github-readme-stats)
+
+</p>
