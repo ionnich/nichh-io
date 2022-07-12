@@ -17,9 +17,11 @@
 
 
 <p align="center">
+<h3 align="left">Stats:</h3>
 
 [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=nichh-io&show_icons=true&theme=gruvbox)](https://github.com/nichh-io/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nichh-io&&rank=-C,-B,-UNKOWN&theme=gruvbox)](https://github.com/nichh-io/github-profile-trophy)
+<h3 align="left">Trophies:</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nichh-io&&rank=-C,-B,-UNKNOWN&theme=gruvbox)](https://github.com/nichh-io/github-profile-trophy)
 
 </p>
