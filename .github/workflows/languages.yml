@@ -17,6 +17,5 @@ jobs:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
-          plugin_languages_indepth: yes
           plugin_languages_ignored: html, css, cmake, shell
           plugin_languages_colors: rainbow
