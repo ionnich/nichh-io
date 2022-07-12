@@ -15,10 +15,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nichh-io&show_icons=true&locale=en&layout=compact" alt="nichh-io" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nichh-io&" alt="nichh-io" /></p>
 
 <p align="center">
 
 [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=nichh-io&show_icons=true&theme=gruvbox)](https://github.com/nichh-io/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nichh-io&theme=gruvbox)](https://github.com/nichh-io/github-profile-trophy)
 
 </p>
