@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#17 polished marketplace view for projects by affixing buttons</span>
+                                        <span class="issue">#19 feat: country filtering fully functional</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">PCX-Markets/pcx-platform</span></div>
-                                    <div>3 files changed <span class="code">++59 --60</span></div>
+                                    <div>6 files changed <span class="code">++286 --228</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#17 polished marketplace view for projects by affixing buttons</span>
+                                        <span class="issue">#19 feat: country filtering fully functional</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">PCX-Markets/pcx-platform</span></div>
-                                    <div>3 files changed <span class="code">++59 --60</span></div>
+                                    <div>6 files changed <span class="code">++286 --228</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,7 +58,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">polish-projects</span>
+                                        <span class="code">country-filters</span>
                                         in
                                         <span class="repo">PCX-Markets/pcx-platform</span>
                                     </div>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#16 cart-behavior-update</span>
+                                        <span class="issue">#18 fixed misc. UI elements for MVP</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">PCX-Markets/pcx-platform</span></div>
-                                    <div>11 files changed <span class="code">++287 --126</span></div>
+                                    <div>10 files changed <span class="code">++251 --183</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#16 cart-behavior-update</span>
+                                        <span class="issue">#18 fixed misc. UI elements for MVP</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">PCX-Markets/pcx-platform</span></div>
-                                    <div>11 files changed <span class="code">++287 --126</span></div>
+                                    <div>10 files changed <span class="code">++251 --183</span></div>
                                 </div>
                             </section>
                         </div>
