@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#37 Marketplace-routing</span>
+                                        <span class="issue">#43 Detailedview-buttons</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">PCX-Markets/pcx-platform</span></div>
-                                    <div>20 files changed <span class="code">++993 --615</span></div>
+                                    <div>10 files changed <span class="code">++496 --211</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#37 Marketplace-routing</span>
+                                        <span class="issue">#43 Detailedview-buttons</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">PCX-Markets/pcx-platform</span></div>
-                                    <div>20 files changed <span class="code">++993 --615</span></div>
+                                    <div>10 files changed <span class="code">++496 --211</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,7 +58,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">marketplace-routing</span>
+                                        <span class="code">detailedview-buttons</span>
                                         in
                                         <span class="repo">PCX-Markets/pcx-platform</span>
                                     </div>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#35 Input-items</span>
+                                        <span class="issue">#37 Marketplace-routing</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">PCX-Markets/pcx-platform</span></div>
-                                    <div>5 files changed <span class="code">++237 --139</span></div>
+                                    <div>20 files changed <span class="code">++993 --615</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#35 Input-items</span>
+                                        <span class="issue">#37 Marketplace-routing</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">PCX-Markets/pcx-platform</span></div>
-                                    <div>5 files changed <span class="code">++237 --139</span></div>
+                                    <div>20 files changed <span class="code">++993 --615</span></div>
                                 </div>
                             </section>
                         </div>
