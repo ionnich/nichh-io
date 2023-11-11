@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#55 Frontend-pagination-migration</span>
+                                        <span class="issue">#60 migrated builds to bun</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">PCX-Markets/pcx-platform</span></div>
-                                    <div>4 files changed <span class="code">++264 --83</span></div>
+                                    <div>2 files changed <span class="code">++1 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#55 Frontend-pagination-migration</span>
+                                        <span class="issue">#60 migrated builds to bun</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">PCX-Markets/pcx-platform</span></div>
-                                    <div>4 files changed <span class="code">++264 --83</span></div>
+                                    <div>2 files changed <span class="code">++1 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,7 +58,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">frontend-pagination-migration</span>
+                                        <span class="code">migrate-to-bun</span>
                                         in
                                         <span class="repo">PCX-Markets/pcx-platform</span>
                                     </div>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#53 Pagination-component</span>
+                                        <span class="issue">#55 Frontend-pagination-migration</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">PCX-Markets/pcx-platform</span></div>
-                                    <div>5 files changed <span class="code">++132 --41</span></div>
+                                    <div>4 files changed <span class="code">++264 --83</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#53 Pagination-component</span>
+                                        <span class="issue">#55 Frontend-pagination-migration</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">PCX-Markets/pcx-platform</span></div>
-                                    <div>5 files changed <span class="code">++132 --41</span></div>
+                                    <div>4 files changed <span class="code">++264 --83</span></div>
                                 </div>
                             </section>
                         </div>
